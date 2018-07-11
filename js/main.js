@@ -1,5 +1,5 @@
 var audio;
-
+ 
 //hide pause button
 
 document.getElementById('pause').style.display = 'none';
